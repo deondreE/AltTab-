@@ -1,0 +1,11 @@
+﻿  AltTab.cpp
+C:\Users\deond\source\repos\AltTab\AltTab\AltTab.cpp(272,30): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\deond\source\repos\AltTab\AltTab\AltTab.cpp(270,71): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\deond\source\repos\AltTab\AltTab\AltTab.cpp(286,35): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\deond\source\repos\AltTab\AltTab\AltTab.cpp(285,71): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\deond\source\repos\AltTab\AltTab\AltTab.cpp(310,66): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 167 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  AltTab.vcxproj -> C:\Users\deond\source\repos\AltTab\x64\Release\AltTab.exe
